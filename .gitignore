@@ -1,0 +1,5 @@
+env2/
+__pycache__/
+*.pyc
+.DS_Store
+extract_images.py
